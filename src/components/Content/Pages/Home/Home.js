@@ -15,7 +15,7 @@ class Home extends Component {
 					<div className="col-md-12">
 						<div className="box box-primary">
 							<div className="box-header with-border">
-              	<h3 class="box-title">{ this.props.title }</h3>
+              	<h3 className="box-title">{ this.props.title }</h3>
             	</div>
 							<h1></h1>
 							<Form1 />
